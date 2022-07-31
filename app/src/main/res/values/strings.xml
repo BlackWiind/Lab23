@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab23</string>
+    <string name="hint_login">Введите логин</string>
+    <string name="hint_pass">Введите пароль</string>
+    <string name="hint_id">Введите индетификатор</string>
+    <string name="hint_priority">Введите приоритет</string>
+    <string name="hint_spec1">Введите параметр 1</string>
+</resources>
